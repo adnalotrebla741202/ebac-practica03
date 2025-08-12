@@ -3,11 +3,14 @@
 Este sitio web se construyó aplicando el concepto de HTML semántico y diferenciando los tipos de elementos (bloque y en línea) y se insertó multimedia para identificar el rol de cada tipo de etiqueta y entidad en la estructura del sitio.
 <h2>Tecnologías utilizadas</h2>
 <ul>
-  <li>Se aplicó el concepto de bloque y en línea, HTML semántico, multimedia y entidades.<li>
-  <li>La estructura HTML incluiye las siguientes etiquetas: <b>&lt;p&gt;, &lt;a&gt;, &lt;h1&gt;, &lt;ul&gt;, &lt;ol&gt;, &lt;li&gt;, &lt;img&gt;, &lt;div&gt;, &lt;span&gt;</b>.</li>
-  <li>Incluye un enlace a un segundo archivo HTML.</li>
-  <li>Una tabla de datos que incluye el atributo <em><b>cellpadding</b></em> de la etiqueta <b>&lt;table&gt;</b>.</li>
-  <li>Un formulario simulando una situación real de caso de uso con mínimo 2 <b>&lt;fieldset&gt;</b>, mínimo 3 tipos de <b>&lt;input&gt;</b> diferentes, un <b>&lt;select&gt;</b>, un botón para enviar la información insertada en el formulario e incluye títulos para cada control.</li>
+  <li>Se aplicó el concepto de bloque y en línea, HTML semántico, multimedia y entidades.</li>
+  <li>Incluye etiquetas multimedia de <b>&lt;video&gt;, &lt;audio&gt</b>; e incluye un video de YouTube con <b>&lt;iframe&gt;</b>.</li>
+  <li>Incluye entidades HTML.</li>
+  <li>Incluye comentarios.</li>
+  <li>Incluye etiquetas de bloque como <b>&lt;h1&gt;, &lt;h2&gt;, &lt;p&gt;, &lt;li&gt;, &lt;ul&gt;, &lt;div&gt;, &lt;hr&gt;</b>.</li>
+  <li>Incluye etiquetas de línea como <b>&lt;img&gt;, &lt;a&gt;, &lt;br&gt;, &lt;strong&gt;, &lt;small&gt;</b>.</li>
+  <li>Incluye etiquetas semánticas como <b>&lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;article&gt;, &lt;section&gt;, &lt;aside&gt;, &lt;footer&gt;</b>.</li>
+  <li>Incluye las etiquetas <b>&lt;figcaption&gt;, &lt;track&gt;, &lt;source&gt;</b>.</li>
 </ul>
 <h2>Instrucciones de instalación y uso</h2>
 <ul>
