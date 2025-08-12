@@ -11,6 +11,7 @@ Este sitio web se construyó aplicando el concepto de HTML semántico y diferenc
   <li>Incluye etiquetas de línea como <b>&lt;img&gt;, &lt;a&gt;, &lt;br&gt;, &lt;strong&gt;, &lt;small&gt;</b>.</li>
   <li>Incluye etiquetas semánticas como <b>&lt;header&gt;, &lt;nav&gt;, &lt;main&gt;, &lt;article&gt;, &lt;section&gt;, &lt;aside&gt;, &lt;footer&gt;</b>.</li>
   <li>Incluye las etiquetas <b>&lt;figcaption&gt;, &lt;track&gt;, &lt;source&gt;</b>.</li>
+  <li>Incluye etiquetas para despiegue de controles en la reproducción de los archivos multimedia de audio y video.</li>
 </ul>
 <h2>Instrucciones de instalación y uso</h2>
 <ul>
