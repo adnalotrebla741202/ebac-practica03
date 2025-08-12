@@ -24,7 +24,7 @@ Este sitio web se construyó aplicando el concepto de HTML semántico y diferenc
   <li>El video de la elaboración de queso casero cuenta con el despliegue de controles para cambiar la velocidad de reproducción, silenciar o descargar el video.</li>
   <li>El proyecto cuenta con una receta en audio de como elaborar chorizo con papas; en dicho audio al igual que en el video del queso se despliegan los controles para silenciar  pausar, cambiar la velocidad de reproducción o descargar el audio de dicha receta.</li>
   <li>El proyecto cuenta con un video de la plataforma YouTube y en el mismo tenemos los mismos controles que tendríamos si estuviéramos directamente en su portal web.</li>
-  <li>Por último contamos con una presentación del sitio SlideShare y en la cual podemos controlar el avance o retroceso de diapositiva.</li>
+  <li>Por último, contamos con una presentación del sitio SlideShare y en la cual podemos controlar el avance o retroceso de diapositiva.</li>
 </ul>
 <h2>Ejemplos de uso</h2>
 <img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/eacbd086-fa04-4e4c-8ecc-b759e38af8a9" />
