@@ -69,13 +69,6 @@ Este sitio web se construyó aplicando el concepto de HTML semántico y diferenc
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/83991c65-027e-4f5a-880c-d97b12fd97aa" />
 
+---
 
-
-
-
-
-
-
-
-
-
+## <p align="center"><a href="https://github.com/adnalotrebla741202">REGRESAR</a></p>
